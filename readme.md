@@ -17,9 +17,5 @@ The application provides an interface to:
 - SQLAlchemy
 - Bootstrap
 
-## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/flask-crud-mysql.git
-   cd flask-crud-mysql
+
